@@ -1,0 +1,10 @@
+requests --user
+ftfy 
+regex 
+tqdm --user
+pandas --user
+wordcloud 
+sklearn --user
+scikit-learn --user
+Levenshtein
+git+https://github.com/openai/CLIP.git 
